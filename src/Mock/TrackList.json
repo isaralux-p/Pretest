@@ -1,0 +1,24 @@
+{
+    "items": [
+        {   "id": "01",
+            "trackingNumber": "1000-2000-3000",
+            "location" : "12/34 Sathon Rd. Yannawa Bangkok 10100, Thailand",
+            "type" : "Delivery"
+
+        },
+        {
+            "id": "02",
+            "trackingNumber": "4000-5000-6000",
+            "location" : "34/5-6 Soi Charenraj 20 Charenraj Rd. Yannawa Bangkok 10100, Thailand",
+            "type" : "Delivery"
+
+        },
+        {
+            "id": "03",
+            "trackingNumber": "7000-8000-9000",
+            "location" : "35/100 Noble Condo, Phayathai Rd. Bangkok 10100, Thailand",
+            "type" : "Pickup"
+
+        }
+    ]
+}
